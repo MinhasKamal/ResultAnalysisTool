@@ -27,5 +27,5 @@ User can directly print or email the result as well. Moreover, he can convert th
 <a href="https://drive.google.com/open?id=0B54vrHge-bxdfmx5OGFjYmxXdmhNUUZqU3Z1Y19uOHdqX3dKR2hJUnQzSUtaZC1LWkVnZlE"><img alt="RAT_Video" src="https://cloud.githubusercontent.com/assets/5456665/13000286/cf1fb57a-d182-11e5-8cd0-fa6604646114.png" height="160" width=auto align="center"/></a>
 
 ### Download Demo-Version
- - [Result Analysis Tool Demo v2](https://github.com/MinhasKamal/ResultAnalysisTool)
- - [Result Analysis Tool Demo v1](https://github.com/MinhasKamal/ResultAnalysisTool)
+ - [Result Analysis Tool Demo v2](https://github.com/MinhasKamal/ResultAnalysisTool/blob/master/bin/ResultAnalysisToolDemo%20(v1-ActiveNumberTable).jar?raw=true)
+ - [Result Analysis Tool Demo v1](https://github.com/MinhasKamal/ResultAnalysisTool/blob/master/bin/ResultAnalysisToolDemo%20(v2).jar?raw=true)
