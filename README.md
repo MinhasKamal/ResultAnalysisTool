@@ -18,13 +18,11 @@ Now, if necessary the user will be able to generate individual result, merit lis
 
 User can directly print or email the result as well. Moreover, he can convert the data as XLS or PDF format too.
 
-### Software Requirement Specification
+### Documentation
 
-<a href="http://www.slideshare.net/100005232690054/software-requirement-specification-on-result-analysis-tool"><img alt="RAT_SRS" src="https://cloud.githubusercontent.com/assets/5456665/13000287/cfe1f662-d182-11e5-9ac6-22eac79cfb37.png" height="160" width=auto align="center"/></a>
-
-### Video Demonstration
-
-<a href="https://drive.google.com/open?id=0B54vrHge-bxdfmx5OGFjYmxXdmhNUUZqU3Z1Y19uOHdqX3dKR2hJUnQzSUtaZC1LWkVnZlE"><img alt="RAT_Video" src="https://cloud.githubusercontent.com/assets/5456665/13000286/cf1fb57a-d182-11e5-8cd0-fa6604646114.png" height="160" width=auto align="center"/></a>
+ - [Project Proposal](http://www.slideshare.net/100005232690054/project-proposal-result-analysis-tool)
+ - [Software Requirement Specification](http://www.slideshare.net/100005232690054/software-requirement-specification-on-result-analysis-tool)
+ - [Video Demonstration](https://drive.google.com/open?id=0B54vrHge-bxdfmx5OGFjYmxXdmhNUUZqU3Z1Y19uOHdqX3dKR2hJUnQzSUtaZC1LWkVnZlE)
 
 ### Download Demo-Version
  - [Result Analysis Tool Demo v2](https://github.com/MinhasKamal/ResultAnalysisTool/blob/master/bin/ResultAnalysisToolDemo%20(v1-ActiveNumberTable).jar?raw=true)
