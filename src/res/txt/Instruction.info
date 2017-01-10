@@ -1,0 +1,35 @@
+1. Open RAT.jar to run the software.
+
+2. Load the project path using the file explorer. Click on any file and click open to import the project path.
+
+3. Open an image from the project explorer and the image will load in the image page.
+
+4. Now define indicator areas and option areas from the image.
+
+5. Do necessary arrangements to set the options area.
+
+6. Click "Done" to save the information in IDG format.
+
+7. Click process image under the operations menu.
+
+8. Then select the image folder and IDG file and click "Start".
+
+9. Now a CSD file will be generated.
+
+10. Click "Define Table" under the "Operation" menu.
+
+11. Then select the CSD file and click open. 
+
+12. Define necessary fields and their names in the next screen.
+
+13. It will generate a TAI file after you click "Done". 
+
+14. Select "Construct Database" under the operation menu and select the TAI file and the DBF file.
+
+15. After you click OK, it will generate a DBF file.
+
+16. Select "Analyse Database" under the operation menu and select the DBF file.
+
+17. In the editor frame, perform necessary operations by using right click and then select save.
+
+18. Select "Process Database" under the operation menu and select the 

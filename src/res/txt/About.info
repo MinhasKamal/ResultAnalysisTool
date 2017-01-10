@@ -1,0 +1,18 @@
+Active Number Table (ANT) 
+
+@ This program is an OMR processing tool.
+
+Active Number Table (ANT) is a complete package for processing OMR machine educed data, make result sheet plus deliver report. User does not need much theoretical or technical skill to run this software.
+
+In a MCQ exam students answer through OMR sheet which goes into an OMR machine. Then the machine extracts data from the sheet. After processing several sheets the machine outputs the extracted data as a *.DAT file. There is already a prepared main answer file in *.DAT format (also produced by OMR machine) which will be later compared with the student answer file to make the result.
+
+At first main answer file is imported in the software and a *.CSV file is made. In the process the user defines all the fields as well as answer field’s value (number add/subtract for correct/incorrect answer). Then student answer file is imported which uses main answer file (*.CSV format) as standard and a *.CSV file is made.
+
+Now the user will be able to perform various operations (searching, sorting) over student answer file for error correction like- wrong roll number, registration number, set code, section etc. After that user will process the file and obtain initial result. At this stage user will have several options to use or insert additional data and finally produce the complete result.
+
+On this point all is left is to attach more information (name, father/mother name, age, institute, address etc) with the final result and produce the result. Now if necessary the user will be able to generate individual result, merit list, waiting list & report. He can directly print the result as well. Moreover he can convert the data as *.XLS or *.PDF format.
+
+**# Thanks #**
+
+
+____________________________________________________________________________________________________________________________Developer
