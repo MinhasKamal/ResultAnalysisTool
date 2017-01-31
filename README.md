@@ -31,3 +31,11 @@ User can directly print or email the result as well. Moreover, he can convert th
  - [Result Analysis Tool demo v1](https://github.com/MinhasKamal/ResultAnalysisTool/blob/master/bin/ResultAnalysisToolDemo%20(v2).jar?raw=true)
 
 ###Developers
+ | 
+--- |
+[Minhas Kamal](https://github.com/MinhasKamal) |
+[Shahriar Mohammed Ishmam](https://github.com/ishmam-shah) |
+[Khandaker Mamun Ahmed](https://github.com/Mamunahmed33) |
+[Mostaque Ahmed](https://github.com/MostaqueAhmed) |
+[Saif Uddin Mahmud](https://github.com/saif0524) |
+
