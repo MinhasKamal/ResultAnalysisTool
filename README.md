@@ -1,4 +1,5 @@
 <h1> <img src="https://cloud.githubusercontent.com/assets/5456665/21795585/18e593d6-d72d-11e6-80dc-c1aba7956d35.png" width="20" height=auto /> ResultAnalysisTool </h1>
+
 #### A Complete Package for Processing OMR Answer Sheet 
 
 Result Analysis Tool (RAT) is a software for examining scanner educed image of OMR sheet, constructing database, data correction, marking, report generation, and result delivery.
@@ -31,11 +32,10 @@ User can directly print or email the result as well. Moreover, he can convert th
  - [Result Analysis Tool demo v1](https://github.com/MinhasKamal/ResultAnalysisTool/blob/master/bin/ResultAnalysisToolDemo%20(v2).jar?raw=true)
 
 ###Developers
- | 
---- |
-[Minhas Kamal](https://github.com/MinhasKamal) |
-[Shahriar Mohammed Ishmam](https://github.com/ishmam-shah) |
-[Khandaker Mamun Ahmed](https://github.com/Mamunahmed33) |
-[Mostaque Ahmed](https://github.com/MostaqueAhmed) |
-[Saif Uddin Mahmud](https://github.com/saif0524) |
+
+- [Minhas Kamal](https://github.com/MinhasKamal)
+- [Shahriar Mohammed Ishmam](https://github.com/ishmam-shah)
+- [Khandaker Mamun Ahmed](https://github.com/Mamunahmed33)
+- [Mostaque Ahmed](https://github.com/MostaqueAhmed)
+- [Saif Uddin Mahmud](https://github.com/saif0524)
 
