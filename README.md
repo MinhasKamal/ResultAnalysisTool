@@ -5,6 +5,7 @@
 Result Analysis Tool (RAT) is a software for examining scanner educed image of OMR sheet, constructing database, data correction, marking, report generation, and result delivery.
 
 ### Usage Scenario
+
 In an MCQ exam students answer through OMR sheet which goes into a scanner. After processing each sheet the machine outputs extracted data as an image file. The main answer file (contains right answers) is also prepared in this way, only here the OMR sheet is filled up by the teachers. This will be later compared with the student answer file to make the result.
 
 At first, we shall define areas of an answer sheet (scanned image) and get an output file in Image Definition Graph (IDG) format. In the process indicator areas and answer areas are defined. Now, using this file we shall process all image files, including main answer sheet, and extract their data as a Comma Separated Data (CSD) file.
@@ -19,23 +20,30 @@ Now, if necessary the user will be able to generate individual result, merit lis
 
 User can directly print or email the result as well. Moreover, he can convert the data as XLS or PDF format too.
 
-### Documentation
-
- - [Project Proposal](http://www.slideshare.net/100005232690054/project-proposal-result-analysis-tool)
- - [Software Requirement Specification](http://www.slideshare.net/100005232690054/software-requirement-specification-on-result-analysis-tool)
- 
 ### Demonstration
+
  - [Video Demonstration](https://drive.google.com/open?id=0B54vrHge-bxdfmx5OGFjYmxXdmhNUUZqU3Z1Y19uOHdqX3dKR2hJUnQzSUtaZC1LWkVnZlE)
 
+### Documentation
+
+ - Project Proposal- [document](http://www.slideshare.net/100005232690054/project-proposal-result-analysis-tool), [slide](https://www.slideshare.net/100005232690054/project-proposal-result-analysis-tool-55262184)
+ - Software Requirement Specification- [document](http://www.slideshare.net/100005232690054/software-requirement-specification-on-result-analysis-tool)
+
 ### Download Demo-Version
- - [Result Analysis Tool demo v2](https://github.com/MinhasKamal/ResultAnalysisTool/blob/master/bin/ResultAnalysisToolDemo%20(v1-ActiveNumberTable).jar?raw=true)
- - [Result Analysis Tool demo v1](https://github.com/MinhasKamal/ResultAnalysisTool/blob/master/bin/ResultAnalysisToolDemo%20(v2).jar?raw=true)
 
-###Developers
+ - Release Year 2015- [demo V2](https://github.com/MinhasKamal/ResultAnalysisTool/blob/master/bin/ResultAnalysisToolDemo%20(v2).jar?raw=true)
+ - Release Year 2014- [demo V1](https://github.com/MinhasKamal/ResultAnalysisTool/blob/master/bin/ResultAnalysisToolDemo%20(v1-ActiveNumberTable).jar?raw=true)
 
-- [Minhas Kamal](https://github.com/MinhasKamal)
-- [Shahriar Mohammed Ishmam](https://github.com/ishmam-shah)
-- [Khandaker Mamun Ahmed](https://github.com/Mamunahmed33)
-- [Mostaque Ahmed](https://github.com/MostaqueAhmed)
-- [Saif Uddin Mahmud](https://github.com/saif0524)
+### Project Source
 
+- [Source Code](https://bitbucket.org/MinhasKamal/resultanalysistool)
+
+### Developers
+
+<table>
+<tr> <td><img src="https://avatars0.githubusercontent.com/u/5456665?v=3&s=460" height="50" width=auto /></td> <td><a href="https://github.com/MinhasKamal">Minhas Kamal</a></td> </tr>
+<tr> <td><img src="https://avatars1.githubusercontent.com/u/22680802?v=3&s=460" height="50" width=auto /></td> <td><a href="https://github.com/ishmam-shah">Shahriar Mohammed Ishmam</a></td> </tr>
+<tr> <td><img src="https://avatars2.githubusercontent.com/u/5452170?v=3&s=460" height="50" width=auto /></td> <td><a href="https://github.com/Mamunahmed33">Khandaker Mamun Ahmed</a></td> </tr>
+<tr> <td><img src="https://pbs.twimg.com/profile_images/661423116954918912/MJo5ynGG_400x400.jpg" height="50" width=auto /></td> <td><a href="https://github.com/MostaqueAhmed">Mostaque Ahmed</a></td> </tr>
+<tr> <td><img src="https://avatars0.githubusercontent.com/u/5450101?v=3&s=460" height="50" width=auto /></td> <td><a href="https://github.com/saif0524">Saif Uddin Mahmud</a></td> </tr>
+</table>
