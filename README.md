@@ -41,9 +41,16 @@ User can directly print or email the result as well. Moreover, he can convert th
 ### Developers
 
 <table>
-<tr> <td><img src="https://avatars0.githubusercontent.com/u/5456665?v=3&s=460" height="50" width=auto /></td> <td><a href="https://github.com/MinhasKamal">Minhas Kamal</a></td> </tr>
+<tr> <td><img src="https://avatars0.githubusercontent.com/u/5456665?v=3&s=460" height="50" width=auto /></td> <td><a href="https://minhaskamal.github.io">Minhas Kamal</a></td> </tr>
 <tr> <td><img src="https://avatars1.githubusercontent.com/u/22680802?v=3&s=460" height="50" width=auto /></td> <td><a href="https://github.com/ishmam-shah">Shahriar Mohammed Ishmam</a></td> </tr>
 <tr> <td><img src="https://avatars2.githubusercontent.com/u/5452170?v=3&s=460" height="50" width=auto /></td> <td><a href="https://github.com/Mamunahmed33">Khandaker Mamun Ahmed</a></td> </tr>
 <tr> <td><img src="https://pbs.twimg.com/profile_images/661423116954918912/MJo5ynGG_400x400.jpg" height="50" width=auto /></td> <td><a href="https://github.com/MostaqueAhmed">Mostaque Ahmed</a></td> </tr>
 <tr> <td><img src="https://avatars0.githubusercontent.com/u/5450101?v=3&s=460" height="50" width=auto /></td> <td><a href="https://github.com/saif0524">Saif Uddin Mahmud</a></td> </tr>
+</table>
+
+### Supervisor
+
+<table>
+<tr> <td><img src="https://avatars2.githubusercontent.com/u/4959307?s=400&v=4" height="50" width=auto /></td> <td><a href="https://github.com/sarwar187">
+Sheikh Muhammad Sarwar</a></td> </tr>
 </table>
