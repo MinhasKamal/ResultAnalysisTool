@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/My_Java_Programs/###API###/itextpdf-5.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/My_Java_Programs/###API###/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/My_Java_Programs/###API###/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/My_Java_Programs/###API###/zip4j_1.3.2/zip4j_1.3.2.jar" sourcepath="C:/Users/admin/Desktop/My_Java_Programs/###API###/zip4j_1.3.2/zip4j_src_1.3.2.zip"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/My_Java_Programs/###API###/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/My_Java_Programs/###API###/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
